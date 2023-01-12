@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Parcel Bug Extensions",
+  "version": "0.0.1",
+  "background": {
+    "service_worker": "service_worker.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Parcel Bug Extensions"
+  }
+}
